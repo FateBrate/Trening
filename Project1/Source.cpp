@@ -8,7 +8,9 @@ int main()
 	int c = 0;
 	c = b + a;
 	cout << c << endl;
-
+	int d = 0;
+	d = b - a;
+	cout << d << endl;
 
 	system("pause>0");
 	return 0;
